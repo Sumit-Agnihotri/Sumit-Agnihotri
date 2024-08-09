@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Hi, I'm Sumit Agnihotri!<br>I'm a passionate programmer with a deep love for coding and continuous learning. My journey into the world of technology has been driven by curiosity and a desire to understand how things work at a fundamental level.<br>I specialize in Python, and I'm proficient in several other programming languages, including C, HTML, CSS, and JavaScript. My main focus is on building solutions that solve real-world problems and enhance user experience.<br>I have strong skills in Python libraries like NumPy and Pandas, which I use extensively for data analysis and manipulation. I’m currently expanding my knowledge in machine learning and deep learning with tools like TensorFlow and Keras. Additionally, I’m exploring frameworks like Django and Flask to build robust web applications.
+👋 Hi, I'm Sumit Agnihotri!
+I'm a passionate programmer with a deep love for coding and a commitment to continuous learning. My journey into the world of technology has been driven by curiosity and a desire to understand how things work at a fundamental level.
+
+I specialize in Python and am proficient in several other programming languages, including C, HTML, CSS, and JavaScript. My main focus is on developing solutions that address real-world problems and enhance user experiences.
+
+I have strong expertise in Python libraries such as NumPy and Pandas, which I use extensively for data analysis and manipulation. Currently, I’m expanding my knowledge in machine learning and deep learning, utilizing tools like TensorFlow and Keras. Additionally, I’m exploring frameworks like Django and Flask to build robust web applications.
+
+
 
 
 ## 🌐 Socials:
