@@ -56,7 +56,7 @@ I’m currently expanding my knowledge in Machine Learning, Deep Learning, and A
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Agnihotri&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 32%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit Agnihotri&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 32%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Agnihotri&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 32%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Agnihotri&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 32%;">
 </p>
