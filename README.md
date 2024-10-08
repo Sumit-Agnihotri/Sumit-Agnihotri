@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sumit Agnihotri!  
+👋 Hi, I'm Sumit Agnihotri!
 I'm a passionate programmer with a deep love for coding and a commitment to continuous learning. My journey into the world of technology has been driven by curiosity and a desire to understand how things work at a fundamental level.
 
 I specialize in Python and am proficient in several other programming languages, including C, HTML, CSS, and JavaScript. My main focus is on developing solutions that address real-world problems and enhance user experiences.
@@ -33,21 +33,6 @@ I have strong expertise in Python libraries such as NumPy and Pandas, which I us
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </p>
-
-## 🎯 Projects:
-- **[Project 1](https://github.com/your-repo/project1)**: Brief description of what this project is about.
-- **[Project 2](https://github.com/your-repo/project2)**: Brief description of what this project is about.
-- **[Project 3](https://github.com/your-repo/project3)**: Brief description of what this project is about.
-
-## 🏆 Achievements:
-- Certified in XYZ
-- Winner of ABC Hackathon
-- Recognized as a top contributor in DEF community
-
-## ✍️ Blog Posts:
-- **[Post 1](https://yourblog.com/post1)**: Brief description of what this blog post is about.
-- **[Post 2](https://yourblog.com/post2)**: Brief description of what this blog post is about.
-- **[Post 3](https://yourblog.com/post3)**: Brief description of what this blog post is about.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sumit-Agnihotri&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
