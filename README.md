@@ -1,18 +1,15 @@
 # 💫 About Me:
-👋 Hi, I'm Sumit Agnihotri!
+👋 Hi, I'm Sumit Agnihotri!  
 I'm a passionate programmer with a deep love for coding and a commitment to continuous learning. My journey into the world of technology has been driven by curiosity and a desire to understand how things work at a fundamental level.
 
 I specialize in Python and am proficient in several other programming languages, including C, HTML, CSS, and JavaScript. My main focus is on developing solutions that address real-world problems and enhance user experiences.
 
 I have strong expertise in Python libraries such as NumPy and Pandas, which I use extensively for data analysis and manipulation. Currently, I’m expanding my knowledge in machine learning and deep learning, utilizing tools like TensorFlow and Keras. Additionally, I’m exploring frameworks like Django and Flask to build robust web applications.
 
-
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eE2yex2y) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sumit.agnihotri.3701/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/the_visionary_agnihotri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-agnihotri/re) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -37,7 +34,22 @@ I have strong expertise in Python libraries such as NumPy and Pandas, which I us
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </p>
 
-# 📊 GitHub Stats:
+## 🎯 Projects:
+- **[Project 1](https://github.com/your-repo/project1)**: Brief description of what this project is about.
+- **[Project 2](https://github.com/your-repo/project2)**: Brief description of what this project is about.
+- **[Project 3](https://github.com/your-repo/project3)**: Brief description of what this project is about.
+
+## 🏆 Achievements:
+- Certified in XYZ
+- Winner of ABC Hackathon
+- Recognized as a top contributor in DEF community
+
+## ✍️ Blog Posts:
+- **[Post 1](https://yourblog.com/post1)**: Brief description of what this blog post is about.
+- **[Post 2](https://yourblog.com/post2)**: Brief description of what this blog post is about.
+- **[Post 3](https://yourblog.com/post3)**: Brief description of what this blog post is about.
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sumit-Agnihotri&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Agnihotri&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Agnihotri&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
