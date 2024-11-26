@@ -13,27 +13,48 @@ Hi there! 👋 I'm **Sumit Agnihotri**, a passionate Data Scientist and Programm
 ---
 
 ## 🚀 Skills:
+
 ### Programming Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <br>Python
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50" />
+  <br>R
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+  <br>JavaScript
+</p>
 
 ### Data Science Libraries:
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-204280?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" />
+  <br>NumPy
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" />
+  <br>Pandas
+</p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50" />
+  <br>Matplotlib
+</p>
 
 ### Tools:
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50" />
+  <br>Jupyter Notebook
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+  <br>Git
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
+  <br>Docker
+</p>
 
 ---
 
@@ -42,8 +63,10 @@ Hi there! 👋 I'm **Sumit Agnihotri**, a passionate Data Scientist and Programm
    - A detailed exploration of customer retention patterns with visualizations and actionable insights.
    - Technologies: Python, Pandas, Matplotlib.
 
-2. **[NumPy and Pandas Practice Questions](https://github.com/Sumit-Agnihotri/NumPy-and-Pandas-Question-Practice)**  
-   - A comprehensive repository to master data manipulation with hands-on coding exercises.
+2. **[Zomato Data Analysis](https://github.com/Sumit-Agnihotri/Zomato-Data-Analysis)**  
+   - A comprehensive analysis of Zomato's dataset to uncover restaurant trends and customer preferences.
+   - Technologies: Python, NumPy, Pandas, Seaborn, Matplotlib.
+   - Features: Interactive visualizations and geographic insights.
 
 ---
 
@@ -58,7 +81,7 @@ Hi there! 👋 I'm **Sumit Agnihotri**, a passionate Data Scientist and Programm
 
 ## 📫 Connect with Me:
 - **LinkedIn**: [Sumit Agnihotri](https://www.linkedin.com/in/sumit-agnihotri/)
-- **Email**: [Contact Me](sagnihotri9710@gmail.com)
+- **Email**: [Contact Me](mailto:youremail@example.com)
 - **GitHub**: [Sumit-Agnihotri](https://github.com/Sumit-Agnihotri)
 
 ---
