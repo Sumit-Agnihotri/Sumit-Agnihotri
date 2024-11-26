@@ -65,7 +65,8 @@ Hi there! 👋 I'm **Sumit Agnihotri**, a passionate **Data Scientist** who love
     <p><b>Docker</b></p>
   </div>
   <div style="display: inline-block; text-align: center; margin: 10px; border: 3px solid gold; padding: 10px; border-radius: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="70" height="70" />
+    <img src="<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Amazon_Web_Services_Logo.svg" alt="AWS" width="70" height="70" />
+" alt="AWS" width="70" height="70" />
     <p><b>AWS</b></p>
   </div>
   <div style="display: inline-block; text-align: center; margin: 10px; border: 3px solid gold; padding: 10px; border-radius: 10px;">
