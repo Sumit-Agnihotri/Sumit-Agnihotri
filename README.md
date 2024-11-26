@@ -1,14 +1,6 @@
 # 🌟 **Sumit Agnihotri | Aspiring Data Scientist** 🌟
 
-Hi there! 👋 I'm **Sumit Agnihotri**, a passionate **Data Scientist** who loves exploring data, building predictive models, and crafting actionable insights. I strive to combine technical excellence with creative problem-solving to uncover the hidden stories behind the data.
-
----
-
-## 🔥 **About Me**
-- 🌱 **Currently Learning:** Advanced techniques in **Machine Learning** and **Deep Learning** with TensorFlow & PyTorch.
-- 🚀 **Expertise in:** Data Cleaning, Feature Engineering, Statistical Analysis, and Data Visualization.
-- 🎯 **Focused on:** Delivering impactful solutions using **Python**, **SQL**, and industry-standard data science libraries.
-- 💡 **Goal:** To make a difference through data-driven decisions and innovative solutions.
+Hi there! 👋 I'm **Sumit Agnihotri**, a passionate **Data Scientist** who loves exploring data, building predictive models, and crafting actionable insights. My mission is to uncover hidden stories within data and translate them into meaningful solutions.
 
 ---
 
@@ -16,28 +8,70 @@ Hi there! 👋 I'm **Sumit Agnihotri**, a passionate **Data Scientist** who love
 
 ### 🖥️ **Programming Languages**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" /><br><b>Python</b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" /><br><b>Java</b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" /><br><b>C</b>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" height="70" />
+    <p><b>Python</b></p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="70" height="70" />
+    <p><b>Java</b></p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="70" height="70" />
+    <p><b>C</b></p>
+  </div>
 </p>
 
 ### 📊 **Data Science Libraries**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" /><br><b>NumPy</b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" /><br><b>Pandas</b>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50" /><br><b>Matplotlib</b>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50" /><br><b>Scikit-learn</b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" /><br><b>TensorFlow</b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="50" height="50" /><br><b>Keras</b>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="70" height="70" />
+    <p><b>NumPy</b></p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="70" height="70" />
+    <p><b>Pandas</b></p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="70" height="70" />
+    <p><b>Matplotlib</b></p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="70" height="70" />
+    <p><b>Scikit-learn</b></p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="70" height="70" />
+    <p><b>TensorFlow</b></p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="70" height="70" />
+    <p><b>Keras</b></p>
+  </div>
 </p>
 
 ### ⚙️ **Tools**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50" /><br><b>Jupyter Notebook</b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" /><br><b>Git</b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /><br><b>Docker</b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50" /><br><b>AWS</b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50" /><br><b>Azure</b>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="70" height="70" />
+    <p><b>Jupyter Notebook</b></p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="70" height="70" />
+    <p><b>Git</b></p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="70" height="70" />
+    <p><b>Docker</b></p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="70" height="70" />
+    <p><b>AWS</b></p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="70" height="70" />
+    <p><b>Azure</b></p>
+  </div>
 </p>
 
 ---
