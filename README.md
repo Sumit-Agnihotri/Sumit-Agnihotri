@@ -96,7 +96,7 @@ Hi there! 👋 I'm **Sumit Agnihotri**, a passionate **Data Scientist** who love
 ## 📫 **Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/sumit-agnihotri/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="50" height="50" /></a>
+  <a href="sagnihotri9710@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="50" height="50" /></a>
   <a href="https://github.com/Sumit-Agnihotri"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" /></a>
 </p>
 
