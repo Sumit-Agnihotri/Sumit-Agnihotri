@@ -14,7 +14,7 @@ Hi there! 👋 I'm **Sumit Agnihotri**, a passionate **Data Scientist** who love
   </div>
   <div style="display: inline-block; text-align: center; margin: 10px; border: 3px solid gold; padding: 10px; border-radius: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="70" height="70" />
-    <p><H3><b>Java</b></H3>H3></p>
+    <p><H3><b>Java</b></H3></p>
   </div>
   <div style="display: inline-block; text-align: center; margin: 10px; border: 3px solid gold; padding: 10px; border-radius: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="70" height="70" />
