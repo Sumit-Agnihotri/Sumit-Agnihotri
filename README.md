@@ -61,6 +61,14 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 ## 💬 **Let's Collaborate**
 🚀 I’m always looking for exciting opportunities to collaborate and contribute to data science projects. If you want to work together or discuss data science, feel free to reach out!
 
-📧 **Email**: [sagnihotri9710@gmail.com](mailto:sagnihotri9710@gmail.com)  
-🔗 **LinkedIn**: [Sumit Agnihotri](https://www.linkedin.com/in/sumit-agnihotri/)  
-🔗 **GitHub**: [Sumit-Agnihotri](https://github.com/Sumit-Agnihotri)
+<p align="center">
+  <a href="mailto:sagnihotri9710@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="50" height="50" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sumit-agnihotri/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+  <a href="https://github.com/Sumit-Agnihotri" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50" height="50" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+</p>
