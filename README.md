@@ -64,10 +64,3 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 📧 **Email**: [sagnihotri9710@gmail.com](mailto:sagnihotri9710@gmail.com)  
 🔗 **LinkedIn**: [Sumit Agnihotri](https://www.linkedin.com/in/sumit-agnihotri/)  
 🔗 **GitHub**: [Sumit-Agnihotri](https://github.com/Sumit-Agnihotri)
-
----
-
-## 🎥 **Watch Me in Action!**  
-Check out my **short video introduction** where I walk you through my Data Science journey and what I'm passionate about.
-
-[Video Link](https://link-to-video.com)
