@@ -30,10 +30,10 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #6495ED;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   
   <!-- Plotly -->
-  <img src="https://cdn.jsdelivr.net/gh/plotly/logos/plotly-logo-01.svg" alt="Plotly" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #000080;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #000080;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   
   <!-- OpenCV -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_logo_with_text.png" alt="OpenCV" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #4682B4;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text.png" alt="OpenCV" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #4682B4;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   
   <!-- Scikit-learn -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F0E68C;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
