@@ -15,7 +15,6 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #1572B6;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F7DF1E;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
----
 
 ## 📊 **Data Science Libraries**
 <p align="center">
