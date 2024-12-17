@@ -17,13 +17,34 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 
 ## 📊 **Data Science Libraries**
 <p align="center">
+  <!-- NumPy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #013243;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  
+  <!-- Pandas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #006400;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  
+  <!-- Matplotlib -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #FF6347;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  
+  <!-- Seaborn -->
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #6495ED;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  
+  <!-- Plotly -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Plotly-logo.png" alt="Plotly" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #000080;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  
+  <!-- OpenCV -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #4682B4;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  
+  <!-- Scikit-learn -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F0E68C;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  
+  <!-- TensorFlow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #FF4500;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  
+  <!-- Keras -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #D32F2F;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
+
 
 ---
 
