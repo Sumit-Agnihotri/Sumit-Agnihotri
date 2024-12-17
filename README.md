@@ -73,7 +73,7 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 ## 📈 **GitHub Stats & Analytics**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Agnihotri&show_icons=true&theme=radical" alt="Sumit's GitHub Stats" />
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Agnihotri&theme=dark)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Agnihotri&theme=dark" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Agnihotri&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
