@@ -49,9 +49,35 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 
 ## ⚙️ **Tools**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F0DB4F;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F05032;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" 
+       alt="Jupyter Notebook" 
+       width="70" height="70" 
+       style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F0DB4F;" 
+       onmouseover="this.style.transform='scale(1.2)';" 
+       onmouseout="this.style.transform='scale(1)';"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+       alt="Git" 
+       width="70" height="70" 
+       style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F05032;" 
+       onmouseover="this.style.transform='scale(1.2)';" 
+       onmouseout="this.style.transform='scale(1)';"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colab_Logo.svg" 
+       alt="Google Colab" 
+       width="70" height="70" 
+       style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #4285F4;" 
+       onmouseover="this.style.transform='scale(1.2)';" 
+       onmouseout="this.style.transform='scale(1)';"/>
+  
+  <img src="https://raw.githubusercontent.com/dnanhkhoa/brand-logo/master/anaconda/anaconda-original.svg" 
+       alt="Anaconda" 
+       width="70" height="70" 
+       style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #44A833;" 
+       onmouseover="this.style.transform='scale(1.2)';" 
+       onmouseout="this.style.transform='scale(1)';"/>
 </p>
+
 
 ---
 
