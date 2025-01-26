@@ -69,13 +69,6 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
        style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F05032; display: inline-block; margin: 0 10px;" 
        onmouseover="this.style.transform='scale(1.2)';" 
        onmouseout="this.style.transform='scale(1)';"/>
-  
-  <img src="https://github.com/your-username/your-repository-name/raw/main/path/to/anaconda-logo.png" 
-       alt="Anaconda" 
-       width="70" height="70" 
-       style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #44A833; display: inline-block; margin: 0 10px;" 
-       onmouseover="this.style.transform='scale(1.2)';" 
-       onmouseout="this.style.transform='scale(1)';"/>
 </p>
 
 
