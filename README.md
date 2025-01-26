@@ -49,6 +49,13 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 
 ## ⚙️ **Tools**
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" 
+       alt="Google Colab" 
+       width="70" height="70" 
+       style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #4285F4;" 
+       onmouseover="this.style.transform='scale(1.2)';" 
+       onmouseout="this.style.transform='scale(1)';"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" 
        alt="Jupyter Notebook" 
        width="70" height="70" 
@@ -63,14 +70,7 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
        onmouseover="this.style.transform='scale(1.2)';" 
        onmouseout="this.style.transform='scale(1)';"/>
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colab_Logo.svg" 
-       alt="Google Colab" 
-       width="70" height="70" 
-       style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #4285F4;" 
-       onmouseover="this.style.transform='scale(1.2)';" 
-       onmouseout="this.style.transform='scale(1)';"/>
-  
-  <img src="https://www.anaconda.com/hubfs/Anaconda2022/images/logos/Anaconda_logo_green.svg" 
+  <img src="https://cdnlogo.com/logos/anaconda-logo.png" 
        alt="Anaconda" 
        width="70" height="70" 
        style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #44A833;" 
