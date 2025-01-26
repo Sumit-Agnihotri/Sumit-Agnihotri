@@ -70,7 +70,7 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
        onmouseover="this.style.transform='scale(1.2)';" 
        onmouseout="this.style.transform='scale(1)';"/>
   
-  <img src="https://raw.githubusercontent.com/dnanhkhoa/brand-logo/master/anaconda/anaconda-original.svg" 
+  <img src="https://www.anaconda.com/hubfs/Anaconda2022/images/logos/Anaconda_logo_green.svg" 
        alt="Anaconda" 
        width="70" height="70" 
        style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #44A833;" 
