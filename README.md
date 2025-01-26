@@ -45,41 +45,9 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #D32F2F;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
 
----
-
-## ⚙️ **Tools**
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" 
-       alt="Google Colab" 
-       width="70" height="70" 
-       style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #4285F4; display: inline-block; margin-right: 10px;" 
-       onmouseover="this.style.transform='scale(1.2)';" 
-       onmouseout="this.style.transform='scale(1)';"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" 
-       alt="Jupyter Notebook" 
-       width="70" height="70" 
-       style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F0DB4F; display: inline-block; margin-right: 10px;" 
-       onmouseover="this.style.transform='scale(1.2)';" 
-       onmouseout="this.style.transform='scale(1)';"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-       alt="Git" 
-       width="70" height="70" 
-       style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F05032; display: inline-block; margin-right: 10px;" 
-       onmouseover="this.style.transform='scale(1.2)';" 
-       onmouseout="this.style.transform='scale(1)';"/>
-  
-  <img src="https://github.com/your-username/your-repository-name/raw/main/path/to/anaconda-logo.png" 
-       alt="Anaconda" 
-       width="70" height="70" 
-       style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #44A833; display: inline-block;" 
-       onmouseover="this.style.transform='scale(1.2)';" 
-       onmouseout="this.style.transform='scale(1)';"/>
-</p>
-
 
 ---
+
 
 ## 🚀 **Featured Projects**
 <p align="center">
