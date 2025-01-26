@@ -51,8 +51,6 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F0DB4F;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F05032;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #0db7ed;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #0089D6;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
 
 ---
