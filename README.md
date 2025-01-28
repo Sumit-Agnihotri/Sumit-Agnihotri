@@ -1,5 +1,4 @@
 # 🌟 **Welcome to Sumit's Data Science Universe** 🌟
-![Header GIF](https://your-gif-link.com) 
 
 ## 👋 **Hi, I'm Sumit Agnihotri**  
 I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machine learning**, and uncovering actionable insights. Join me on my journey to transform data into valuable business solutions. 🚀
@@ -62,11 +61,16 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 ---
 
 ## 📈 **GitHub Stats & Analytics**
-<p align="center">
+<div align="center">
+  <!-- GitHub Profile Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Agnihotri&show_icons=true&theme=radical" alt="Sumit's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Sumit-Agnihotri&theme=radical&hide_border=true" alt="GitHub Streak Stats">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Agnihotri&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Agnihotri&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
