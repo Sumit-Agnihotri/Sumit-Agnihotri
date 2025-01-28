@@ -66,7 +66,7 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
   <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Agnihotri&show_icons=true&theme=radical" alt="Sumit's GitHub Stats" />
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Agnihotri&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Sumit-Agnihotri?theme=radical" />
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Agnihotri&layout=compact&theme=radical" alt="Top Languages" />
