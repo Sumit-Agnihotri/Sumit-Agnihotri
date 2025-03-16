@@ -56,10 +56,10 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
   <a href="https://github.com/Sumit-Agnihotri/Zomato-Data-Analysis">
     <img src="https://img.shields.io/badge/Zomato_Data_Analysis-Completed-blue?style=flat" alt="Zomato Data Analysis"/>
   </a>
-  <a href="https://github.com/Sumit-Agnihotri/Customer-Churn-Analysis">
+  <a href="https://github.com/Sumit-Agnihotri/INDIA_JOB_MARKET_PROJECT">
     <img src="https://img.shields.io/badge/India_Job_Market_Analysis-Completed-red?style=flat" alt="Customer Churn Analysis"/>
   </a>
-  <a href="https://github.com/Sumit-Agnihotri/Zomato-Data-Analysis">
+  <a href="https://github.com/Sumit-Agnihotri/MILITARY_EXPENDITURE_ANALYSIS">
     <img src="https://img.shields.io/badge/Military_Expenditure_Analysis-Completed-yellow?style=flat" alt="Zomato Data Analysis"/>
   </a>
 </p>
