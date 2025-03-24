@@ -50,17 +50,18 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 
 ## 🚀 **Featured Projects**
 <p align="center">
-  <a href="https://github.com/Sumit-Agnihotri/Customer-Churn-Analysis">
-    <img src="https://img.shields.io/badge/Customer_Churn_Analysis-Completed-brightgreen?style=flat" alt="Customer Churn Analysis"/>
-  </a>
+  
   <a href="https://github.com/Sumit-Agnihotri/Zomato-Data-Analysis">
-    <img src="https://img.shields.io/badge/Zomato_Data_Analysis-Completed-blue?style=flat" alt="Zomato Data Analysis"/>
+    <img src="https://img.shields.io/badge/Zomato_Data_Analysis-Completed-red?style=flat" alt="Zomato Data Analysis"/>
   </a>
   <a href="https://github.com/Sumit-Agnihotri/INDIA_JOB_MARKET_PROJECT">
-    <img src="https://img.shields.io/badge/India_Job_Market_Analysis-Completed-red?style=flat" alt="Customer Churn Analysis"/>
+    <img src="https://img.shields.io/badge/India_Job_Market_Analysis-Completed-blue?style=flat" alt="Customer Churn Analysis"/>
   </a>
   <a href="https://github.com/Sumit-Agnihotri/MILITARY_EXPENDITURE_ANALYSIS">
-    <img src="https://img.shields.io/badge/Military_Expenditure_Analysis-Completed-yellow?style=flat" alt="Zomato Data Analysis"/>
+    <img src="https://img.shields.io/badge/Military_Expenditure_Analysis-Completed-green?style=flat" alt="Zomato Data Analysis"/>
+  </a>
+  <a href="https://github.com/Sumit-Agnihotri/Customer-Churn-Analysis">
+    <img src="https://img.shields.io/badge/Customer_Churn_Analysis-Completed-yellow?style=flat" alt="Customer Churn Analysis"/>
   </a>
   <a href="https://github.com/Sumit-Agnihotri/TITANIC_SURVIVAL_PREDICTION">
     <img src="https://img.shields.io/badge/Titanic Survival Prediction-Completed-ff69b4?style=flat" alt="Titanic Survival Prediction"/>
