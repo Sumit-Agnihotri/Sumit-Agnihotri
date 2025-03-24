@@ -63,7 +63,7 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
     <img src="https://img.shields.io/badge/Military_Expenditure_Analysis-Completed-yellow?style=flat" alt="Zomato Data Analysis"/>
   </a>
   <a href="https://github.com/Sumit-Agnihotri/TITANIC_SURVIVAL_PREDICTION">
-    <img src="https://img.shields.io/badge/Titanic Survival Prediction-Completed-black?style=flat" alt="Titanic Survival Prediction"/>
+    <img src="https://img.shields.io/badge/Titanic Survival Prediction-Completed-cobalt?style=flat" alt="Titanic Survival Prediction"/>
   </a>
 </p>
 
