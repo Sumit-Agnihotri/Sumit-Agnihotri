@@ -66,8 +66,10 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
   <a href="https://github.com/Sumit-Agnihotri/TITANIC_SURVIVAL_PREDICTION">
     <img src="https://img.shields.io/badge/Titanic Survival Prediction-Completed-ff69b4?style=flat" alt="Titanic Survival Prediction"/>
   </a>
+  <a href="https://github.com/Sumit-Agnihotri/MOVIE_RATING_PREDICTION">
+    <img src="https://img.shields.io/badge/Movie Rating Prediction-Completed-purple?style=flat" alt="Movie Rating Prediction"/>
+  </a>
 </p>
-
 
 ---
 
