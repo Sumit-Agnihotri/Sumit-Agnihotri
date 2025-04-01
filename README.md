@@ -28,9 +28,6 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
   <!-- Seaborn -->
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #6495ED;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   
-  <!-- Plotly -->
-  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #000080;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  
   <!-- OpenCV -->
   <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text.png" alt="OpenCV" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #4682B4;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   
@@ -68,6 +65,9 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
   </a>
   <a href="https://github.com/Sumit-Agnihotri/MOVIE_RATING_PREDICTION">
     <img src="https://img.shields.io/badge/Movie Rating Prediction-Completed-purple?style=flat" alt="Movie Rating Prediction"/>
+  </a>
+  <a href="https://github.com/Sumit-Agnihotri/IRIS_FLOWER_CLASSIFICATION">
+    <img src="https://img.shields.io/badge/Iris Flower Classification-Completed-orange?style=flat" alt="Iris Flower Classification"/>
   </a>
 </p>
 
