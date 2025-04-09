@@ -41,9 +41,9 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 
 ## 🌈 **Business Intelligence (BI) and Data Analytics Tools**
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F2C811;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #E97627;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #217346;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F2C811;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tableau_Logo.png" alt="Tableau" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #E97627;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" alt="Excel" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #217346;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
 
 ---
