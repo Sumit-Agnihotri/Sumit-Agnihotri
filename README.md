@@ -87,4 +87,4 @@ Welcome to **my world** — where data meets creativity in a **multi-dimensional
   </a>
 </p>  
 
-🎯 *"Together, let’s decode the mysteries of data in 3D!"*
+🎯 *"Together, let’s decode the mysteries of data in 3D!"*  
