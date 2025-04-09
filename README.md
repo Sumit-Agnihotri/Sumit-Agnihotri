@@ -7,9 +7,9 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 
 ## 🌈 **Languages I’m Fluent In**
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F2C811;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #E97627;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #217346;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #4B8BBE;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #A8B9CC;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F29111;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
 
 ---
@@ -41,9 +41,9 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 
 ## 🌈 **Business Intelligence (BI) and Data Analytics Tools**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F2C811;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #E97627;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #217346;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F2C811;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #E97627;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #217346;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
 
 ---
