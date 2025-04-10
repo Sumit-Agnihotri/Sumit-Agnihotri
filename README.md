@@ -35,6 +35,8 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
   <!-- Scikit-learn -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F0E68C;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F29111;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+
 </p>
 
 
