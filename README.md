@@ -37,6 +37,8 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F29111;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F29111;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+
 </p>
 
 
