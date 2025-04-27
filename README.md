@@ -107,9 +107,6 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
   <a href="https://www.linkedin.com/in/sumit-agnihotri/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" height="50" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
-  <a href="https://www.instagram.com/confident_ds" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="50" height="50" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>
 
 
 </p>
