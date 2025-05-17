@@ -48,7 +48,6 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F2C811;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="Tableau" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #E97627;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png" alt="Excel" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #217346;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F29111;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
 
