@@ -9,7 +9,7 @@ I'm an aspiring **Data Scientist** with a passion for **data analysis**, **machi
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #4B8BBE;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #A8B9CC;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F29111;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #336791;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="70" height="70" style="transition: all 0.3s ease; border-radius: 20%; border: 3px solid #F29111;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
 </p>
 
