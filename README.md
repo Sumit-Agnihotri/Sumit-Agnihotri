@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=SUMIT%20AGNIHOTRI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=SUMIT%20AGNIHOTRI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20AI%20Learner&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Turning+Data+Into+Insights+📊;Building+Machine+Learning+Projects+🤖;Exploring+AI+%26+Analytics+🚀;Always+Learning+Something+New+✨"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Turning+Data+Into+Insights+📊;Learning+Machine+Learning+and+AI+🤖;Building+Projects+and+Improving+Everyday+🚀;Future+Data+Scientist+✨"/>
 
 <br><br>
 
@@ -20,75 +20,100 @@
 
 # 🌌 About Me
 
-<img align="right" alt="AI" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY1NGM3YjM2N2UxNmZiMmM0YmFlMTQxN2E0ZTRjNmQ4MWFlZWRkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif"/>
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
 Name: Sumit Agnihotri
+
 Role: Aspiring Data Scientist
-Location: India
-Focus Areas:
-  - Data Science
+
+Current Status:
+  - Learning Data Science
+  - Building Real-World Projects
+  - Exploring Machine Learning & AI
+
+Programming Languages:
+  - Python
+  - PostgreSQL
+
+Interests:
+  - Data Analysis
   - Machine Learning
-  - Artificial Intelligence
   - Data Visualization
-  - Business Analytics
+  - Artificial Intelligence
+  - Business Insights
 
 Currently Learning:
   - Deep Learning
   - Generative AI
-  - Advanced Machine Learning
-  - SQL Optimization
+  - Advanced SQL
+  - Model Building
+  - Data Storytelling
 
 Goals:
   - Become Job Ready
-  - Build Real-World AI Projects
+  - Build AI & ML Projects
   - Contribute to Open Source
-  - Solve Real Business Problems
+  - Become an AI Engineer
 ```
 
 <br><br>
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚡ Tech Stack
 
 <div align="center">
 
-## 💻 Languages
+## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,postgresql,r,bash" />
+<img src="https://skillicons.dev/icons?i=python,postgresql" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 ---
 
-## 🤖 AI • ML • Data Science
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
-<br><br>
+## 📚 Data Science & Machine Learning
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Seaborn-4E79A7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 ---
 
-## 📊 BI • Analytics • Visualization
+## 📊 Visualization & BI Tools
 
-<img src="https://skillicons.dev/icons?i=powerbi,tableau" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 ---
 
-## 🛠️ Tools • Platforms
+## 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
 
@@ -99,69 +124,105 @@ Goals:
 <div align="center">
 
 <table>
+
 <tr>
-<td width="50%">
 
-## 🍽️ Zomato Data Analysis
+<td width="33%">
 
-📊 Exploratory Data Analysis on restaurant trends, ratings, customer preferences, and online ordering patterns.
+## 📊 Project 1
 
-🔧 **Tech Used:**  
-Python • Pandas • Matplotlib • Seaborn
+📝 Replace this text with your project description.
 
-<a href="https://github.com/Sumit-Agnihotri/Zomato-Data-Analysis">
-<img src="https://img.shields.io/badge/View_Project-FF4B4B?style=for-the-badge&logo=github&logoColor=white"/>
+🔧 Tech Used:
+Python • Pandas • Visualization
+
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-00C853?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
-## 💼 India Job Market Analysis
+## 🤖 Project 2
 
-📈 Analyzed salary trends, in-demand skills, hiring patterns, and industry requirements.
+📝 Replace this text with your project description.
 
-🔧 **Tech Used:**  
-Python • EDA • Visualization • Analytics
+🔧 Tech Used:
+Machine Learning • Python
 
-<a href="https://github.com/Sumit-Agnihotri/INDIA_JOB_MARKET_PROJECT">
-<img src="https://img.shields.io/badge/View_Project-0078FF?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-2979FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
+<td width="33%">
+
+## 📈 Project 3
+
+📝 Replace this text with your project description.
+
+🔧 Tech Used:
+EDA • Analytics • SQL
+
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-FF9100?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-## 📉 Customer Churn Analysis
+<td width="33%">
 
-🤖 Built machine learning models to predict customer churn and improve retention analysis.
+## 🧠 Project 4
 
-🔧 **Tech Used:**  
-Scikit-Learn • Pandas • ML
+📝 Replace this text with your project description.
 
-<a href="https://github.com/Sumit-Agnihotri/Customer-Churn-Analysis">
-<img src="https://img.shields.io/badge/View_Project-F1C40F?style=for-the-badge&logo=github&logoColor=black"/>
+🔧 Tech Used:
+AI • Python • Data
+
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-AA00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
-## 🚢 Titanic Survival Prediction
+## 📉 Project 5
 
-🧠 Machine Learning classification project predicting passenger survival.
+📝 Replace this text with your project description.
 
-🔧 **Tech Used:**  
-Python • Classification • ML Models
+🔧 Tech Used:
+Data Science • ML
 
-<a href="https://github.com/Sumit-Agnihotri/TITANIC_SURVIVAL_PREDICTION">
-<img src="https://img.shields.io/badge/View_Project-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-FF1744?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
+<td width="33%">
+
+## 🚀 Project 6
+
+📝 Replace this text with your project description.
+
+🔧 Tech Used:
+Visualization • Analytics
+
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
 </tr>
+
 </table>
 
 </div>
@@ -194,7 +255,7 @@ Python • Classification • ML Models
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -212,21 +273,26 @@ Python • Classification • ML Models
 class SumitAgnihotri:
 
     def __init__(self):
+
         self.role = "Aspiring Data Scientist"
+
         self.learning = [
+            "Python",
+            "PostgreSQL",
             "Machine Learning",
             "Deep Learning",
             "Generative AI",
-            "Data Visualization",
-            "SQL",
-            "Open Source"
+            "Data Visualization"
         ]
 
-    def future_goal(self):
+    def goal(self):
+
         return "Become an AI Engineer & Data Scientist 🚀"
 
+
 me = SumitAgnihotri()
-print(me.future_goal())
+
+print(me.goal())
 ```
 
 </div>
@@ -253,7 +319,7 @@ print(me.future_goal())
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -268,6 +334,7 @@ print(me.future_goal())
 <div align="center">
 
 ### ✨ “Without data, you're just another person with an opinion.”
+
 ### — W. Edwards Deming
 
 </div>
@@ -278,7 +345,7 @@ print(me.future_goal())
 
 <div align="center">
 
-⚡ I enjoy turning messy datasets into beautiful visual stories.
+⚡ I enjoy transforming raw datasets into meaningful visual stories.
 
 </div>
 
@@ -290,6 +357,6 @@ print(me.future_goal())
 
 # ⭐ Thanks for Visiting My Profile ⭐
 
-### 🚀 Keep Learning • Keep Building • Keep Growing
+### 🚀 Learn • Build • Grow • Repeat
 
 </div>
