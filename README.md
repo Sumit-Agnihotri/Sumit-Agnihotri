@@ -269,11 +269,10 @@ Replace this with your project description.
 # 🟩 Contribution Calendar
 
 <div align="center">
-
-<img width="95%" src="https://ghchart.rshah.org/7C3AED/Sumit-Agnihotri"/>
+  
+<img width="95%" src="https://github-contributions.vercel.app/api/v1/Sumit-Agnihotri?theme=tokyo-night&bg=0f172a"/>
 
 </div>
-
 ---
 
 # 📈 Activity Graph
