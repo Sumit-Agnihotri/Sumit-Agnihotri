@@ -254,19 +254,29 @@ Replace this with your project description.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sumit-Agnihotri&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=EC4899&text_color=E2E8F0"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sumit-Agnihotri&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=EC4899&text_color=E2E8F0"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Sumit-Agnihotri&theme=tokyonight&hide_border=true&ring=EC4899&fire=F97316&currStreakLabel=38BDF8"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Agnihotri&theme=tokyonight&hide_border=true&ring=EC4899&fire=F97316&currStreakLabel=38BDF8"/>
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Agnihotri&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=E2E8F0"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Agnihotri&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=E2E8F0"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🟩 Contribution Calendar
+
+<div align="center">
+
+<img width="95%" src="https://ghchart.rshah.org/7C3AED/Sumit-Agnihotri"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
 
 <div align="center">
 
