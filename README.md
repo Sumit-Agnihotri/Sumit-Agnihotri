@@ -120,7 +120,7 @@ Goal:
 
 <td width="33%">
 
-## 📊 Project 1
+## 📊 AI Smart City Intelligence System
 
 Replace this with your project description.
 
@@ -132,7 +132,7 @@ Replace this with your project description.
 
 <br><br>
 
-<a href="YOUR_PROJECT_LINK">
+<a href="https://github.com/Sumit-Agnihotri/AI-Smart-City-Intelligence-System">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -140,7 +140,7 @@ Replace this with your project description.
 
 <td width="33%">
 
-## 🤖 Project 2
+## 🤖 Diabetes Prediction App
 
 Replace this with your project description.
 
@@ -152,7 +152,7 @@ Replace this with your project description.
 
 <br><br>
 
-<a href="YOUR_PROJECT_LINK">
+<a href="https://github.com/Sumit-Agnihotri/Diabetes_Prediction_App">
 <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -160,7 +160,7 @@ Replace this with your project description.
 
 <td width="33%">
 
-## 📈 Project 3
+## 📈 Store Item Forecasting
 
 Replace this with your project description.
 
@@ -172,7 +172,7 @@ Replace this with your project description.
 
 <br><br>
 
-<a href="YOUR_PROJECT_LINK">
+<a href="https://github.com/Sumit-Agnihotri/Store_Item_Forecasting">
 <img src="https://img.shields.io/badge/View_Project-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -184,7 +184,7 @@ Replace this with your project description.
 
 <td width="33%">
 
-## 🧠 Project 4
+## 🧠 Wave Shoes Store Dashboard
 
 Replace this with your project description.
 
@@ -196,7 +196,7 @@ Replace this with your project description.
 
 <br><br>
 
-<a href="YOUR_PROJECT_LINK">
+<a href="https://github.com/Sumit-Agnihotri/Wave_Shoes_Store_Dashboard">
 <img src="https://img.shields.io/badge/View_Project-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -204,7 +204,7 @@ Replace this with your project description.
 
 <td width="33%">
 
-## 📉 Project 5
+## 📉 Electricity Consumption Forecasting
 
 Replace this with your project description.
 
@@ -216,7 +216,7 @@ Replace this with your project description.
 
 <br><br>
 
-<a href="YOUR_PROJECT_LINK">
+<a href="https://github.com/Sumit-Agnihotri/Electricity_Consumption_Forecasting_Project">
 <img src="https://img.shields.io/badge/View_Project-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -224,7 +224,7 @@ Replace this with your project description.
 
 <td width="33%">
 
-## 🚀 Project 6
+## 🚀 Handwritten Digits Recognition Model
 
 Replace this with your project description.
 
@@ -236,7 +236,7 @@ Replace this with your project description.
 
 <br><br>
 
-<a href="YOUR_PROJECT_LINK">
+<a href="https://github.com/Sumit-Agnihotri/Handwritten_Digits_ML_Project">
 <img src="https://img.shields.io/badge/View_Project-F97316?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
