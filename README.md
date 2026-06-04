@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-    <title>Sumit Agnihotri - Data Scientist Portfolio</title>
-    <!-- Google Fonts for better typography -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&family=Fira+Code:wght@400;500;600&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>Sumit Agnihotri · Data Scientist Portfolio</title>
+    <!-- Google Fonts + Smooth Base -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&display=swap" rel="stylesheet">
     <style>
         * {
             margin: 0;
@@ -14,586 +14,493 @@
         }
 
         body {
-            background: linear-gradient(135deg, #0B1120 0%, #0F172A 100%);
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            color: #E2E8F0;
+            background: radial-gradient(circle at 10% 20%, #0B0F1C, #030617);
+            font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            color: #EFF3F8;
             line-height: 1.5;
-            padding: 2rem 1rem;
+            padding: 0;
+            overflow-x: hidden;
         }
 
-        .container {
-            max-width: 1400px;
+        .main-container {
+            max-width: 1280px;
             margin: 0 auto;
+            padding: 2rem 1.5rem 4rem;
         }
 
-        /* Glass morphism cards */
+        /* premium glassmorphic elements */
         .glass-card {
-            background: rgba(15, 23, 42, 0.6);
-            backdrop-filter: blur(12px);
+            background: rgba(15, 25, 45, 0.55);
+            backdrop-filter: blur(14px);
             border-radius: 2rem;
-            border: 1px solid rgba(56, 189, 248, 0.15);
-            transition: all 0.3s ease;
+            border: 1px solid rgba(56, 189, 248, 0.2);
+            transition: all 0.25s ease;
         }
 
         .glass-card:hover {
-            border-color: rgba(56, 189, 248, 0.4);
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+            border-color: rgba(236, 72, 153, 0.5);
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.5);
         }
 
-        /* Headers */
-        h1, h2, h3 {
-            font-weight: 700;
-            background: linear-gradient(135deg, #38BDF8, #A855F7, #EC4899);
+        /* Gradient texts */
+        .gradient-primary {
+            background: linear-gradient(130deg, #38BDF8 0%, #A855F7 55%, #EC4899 100%);
             background-clip: text;
             -webkit-background-clip: text;
             color: transparent;
-            letter-spacing: -0.02em;
+            font-weight: 800;
+        }
+
+        .gradient-gold {
+            background: linear-gradient(135deg, #FDE047, #F97316);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
         }
 
         h2 {
             font-size: 2rem;
+            font-weight: 700;
             margin-bottom: 1.5rem;
-            display: inline-block;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
             border-bottom: 3px solid #38BDF8;
-            padding-bottom: 0.5rem;
+            padding-bottom: 0.4rem;
         }
 
         .section {
             margin-bottom: 4rem;
         }
 
-        /* Badges and tech stack */
-        .tech-badge {
+        /* tech badges */
+        .tech-pill {
             display: inline-flex;
             align-items: center;
             background: rgba(56, 189, 248, 0.1);
-            padding: 0.5rem 1.2rem;
+            backdrop-filter: blur(4px);
+            padding: 0.45rem 1.2rem;
             border-radius: 100px;
             font-weight: 500;
-            font-size: 0.9rem;
-            backdrop-filter: blur(4px);
-            border: 1px solid rgba(56, 189, 248, 0.2);
-            transition: transform 0.2s, background 0.2s;
-            margin: 0.3rem;
+            font-size: 0.85rem;
+            letter-spacing: -0.2px;
+            border: 1px solid rgba(56, 189, 248, 0.25);
+            transition: 0.2s;
+            margin: 0.25rem;
         }
 
-        .tech-badge:hover {
+        .tech-pill:hover {
+            background: rgba(168, 85, 247, 0.2);
             transform: translateY(-2px);
-            background: rgba(56, 189, 248, 0.2);
-            border-color: #38BDF8;
+            border-color: #EC4899;
         }
 
-        /* Project grid */
-        .projects-grid {
+        /* project grid */
+        .project-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
             gap: 1.8rem;
             margin-top: 2rem;
         }
 
-        .project-card {
-            background: rgba(15, 23, 42, 0.7);
+        .project-tile {
+            background: rgba(10, 18, 30, 0.7);
             border-radius: 1.5rem;
-            padding: 1.8rem;
-            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-            border: 1px solid rgba(56, 189, 248, 0.1);
+            padding: 1.6rem;
             backdrop-filter: blur(8px);
+            border: 1px solid rgba(59, 130, 246, 0.2);
+            transition: all 0.3s cubic-bezier(0.2, 0.9, 0.4, 1.1);
         }
 
-        .project-card:hover {
+        .project-tile:hover {
             transform: translateY(-8px);
             border-color: #EC4899;
-            box-shadow: 0 20px 40px -12px rgba(236, 72, 153, 0.2);
+            box-shadow: 0 20px 30px -15px rgba(236, 72, 153, 0.2);
+            background: rgba(15, 25, 45, 0.85);
         }
 
         .project-title {
-            font-size: 1.5rem;
+            font-size: 1.45rem;
             font-weight: 700;
-            margin-bottom: 0.75rem;
-            background: linear-gradient(135deg, #E2E8F0, #94A3B8);
+            margin-bottom: 0.5rem;
+            background: linear-gradient(135deg, #E0F2FE, #C084FC);
             background-clip: text;
             -webkit-background-clip: text;
             color: transparent;
         }
 
         .project-desc {
-            color: #94A3B8;
-            margin-bottom: 1rem;
-            line-height: 1.6;
+            color: #B9C7D9;
+            font-size: 0.9rem;
+            margin: 0.75rem 0;
+            line-height: 1.5;
         }
 
-        .project-tech {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
-            margin: 1rem 0;
-        }
-
-        .mini-badge {
-            background: rgba(168, 85, 247, 0.2);
-            padding: 0.25rem 0.75rem;
-            border-radius: 100px;
-            font-size: 0.75rem;
+        .mini-tech {
+            display: inline-block;
+            background: rgba(236, 72, 153, 0.15);
+            border-radius: 20px;
+            padding: 0.2rem 0.7rem;
+            font-size: 0.7rem;
             font-weight: 500;
-            color: #C084FC;
+            color: #F9A8D4;
+            margin-right: 0.5rem;
+            margin-bottom: 0.5rem;
         }
 
-        /* Stats layout */
-        .stats-wrapper {
+        .project-btn {
+            display: inline-block;
+            margin-top: 1rem;
+            background: linear-gradient(95deg, #1E3A8A, #4C1D95);
+            padding: 0.5rem 1.2rem;
+            border-radius: 40px;
+            font-weight: 600;
+            font-size: 0.8rem;
+            color: white;
+            text-decoration: none;
+            transition: 0.2s;
+            border: 1px solid rgba(56, 189, 248, 0.5);
+        }
+
+        .project-btn:hover {
+            background: linear-gradient(95deg, #2563EB, #7C3AED);
+            transform: scale(1.02);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        }
+
+        /* stats row */
+        .stats-row {
             display: flex;
             flex-wrap: wrap;
-            gap: 1.5rem;
+            gap: 1.8rem;
             justify-content: center;
-            margin-bottom: 2rem;
+            margin: 2rem 0;
         }
 
-        .stats-card {
+        .stat-box {
             flex: 1;
-            min-width: 280px;
-            background: rgba(15, 23, 42, 0.6);
+            min-width: 250px;
+            background: rgba(0, 0, 0, 0.35);
+            backdrop-filter: blur(8px);
+            border-radius: 1.5rem;
+            padding: 1.2rem;
+            text-align: center;
+            border: 1px solid #2D3A5E;
+        }
+
+        /* contribution simulated */
+        .contrib-preview {
+            background: #0A0F1C;
             border-radius: 1.5rem;
             padding: 1.5rem;
             text-align: center;
-            border: 1px solid rgba(56, 189, 248, 0.2);
         }
 
-        /* Contribution calendar simulation (improved visual) */
-        .calendar-container {
-            background: rgba(15, 23, 42, 0.8);
-            border-radius: 1.5rem;
-            padding: 2rem;
-            text-align: center;
-        }
-
-        .calendar-grid {
+        .mini-cal {
             display: grid;
             grid-template-columns: repeat(52, 1fr);
             gap: 3px;
             margin-top: 1rem;
         }
 
-        .calendar-week {
-            display: flex;
-            gap: 3px;
-            justify-content: center;
-        }
-
-        .contribution-day {
-            aspect-ratio: 1;
-            background: #1E293B;
+        .day-cell {
+            aspect-ratio: 1 / 1;
+            background-color: #1A2538;
             border-radius: 3px;
-            transition: all 0.2s;
+            transition: 0.1s;
         }
 
-        /* For demo - showing activity simulation visually */
-        .contribution-level-0 { background: #1E293B; }
-        .contribution-level-1 { background: #0EA5E9; }
-        .contribution-level-2 { background: #3B82F6; }
-        .contribution-level-3 { background: #8B5CF6; }
-        .contribution-level-4 { background: #EC4899; }
+        .level-1 { background-color: #0EA5E9; }
+        .level-2 { background-color: #3B82F6; }
+        .level-3 { background-color: #8B5CF6; }
+        .level-4 { background-color: #EC4899; }
 
-        /* Code block styling */
-        .code-block {
-            background: #0F172A;
-            border-radius: 1rem;
-            padding: 1.5rem;
-            font-family: 'Fira Code', monospace;
-            font-size: 0.85rem;
-            overflow-x: auto;
-            border: 1px solid #334155;
-            text-align: left;
-        }
-
-        /* Responsive */
-        @media (max-width: 768px) {
-            .projects-grid {
-                grid-template-columns: 1fr;
-            }
-            .stats-wrapper {
-                flex-direction: column;
-            }
-            h2 {
-                font-size: 1.75rem;
-            }
-        }
-
-        /* Social links */
+        /* socials */
         .social-links {
             display: flex;
             justify-content: center;
-            gap: 1.2rem;
             flex-wrap: wrap;
+            gap: 1.2rem;
         }
+
         .social-btn {
-            background: linear-gradient(135deg, rgba(56, 189, 248, 0.1), rgba(236, 72, 153, 0.1));
-            padding: 0.8rem 1.8rem;
+            background: rgba(56, 189, 248, 0.1);
+            padding: 0.75rem 2rem;
             border-radius: 60px;
             text-decoration: none;
-            color: white;
             font-weight: 600;
-            transition: all 0.3s;
-            backdrop-filter: blur(4px);
-            border: 1px solid rgba(56, 189, 248, 0.3);
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
+            color: white;
+            border: 1px solid rgba(56, 189, 248, 0.4);
+            transition: 0.2s;
+            backdrop-filter: blur(8px);
         }
 
         .social-btn:hover {
-            transform: scale(1.05);
-            background: linear-gradient(135deg, #38BDF8, #EC4899);
+            background: linear-gradient(120deg, #2563EB, #C026D3);
             border-color: transparent;
-            box-shadow: 0 6px 20px rgba(56, 189, 248, 0.4);
+            transform: translateY(-3px);
         }
 
-        .quote-text {
-            font-size: 1.3rem;
-            font-style: italic;
-            background: linear-gradient(135deg, #CBD5E1, #94A3B8);
-            background-clip: text;
-            -webkit-background-clip: text;
-            color: transparent;
+        .code-snip {
+            background: #050C1A;
+            border-radius: 1.2rem;
+            padding: 1.2rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            border-left: 4px solid #EC4899;
+            overflow-x: auto;
         }
 
         footer {
             text-align: center;
             margin-top: 3rem;
             padding-top: 2rem;
-            border-top: 1px solid rgba(56, 189, 248, 0.2);
+            border-top: 1px solid #1E2A44;
         }
 
-        .gradient-text {
-            background: linear-gradient(135deg, #38BDF8, #EC4899);
-            background-clip: text;
-            -webkit-background-clip: text;
-            color: transparent;
-        }
-        
-        .wave-header {
-            width: 100%;
-            height: auto;
-        }
-
-        .typing-demo {
-            font-size: 1.2rem;
-            font-weight: 500;
-            text-align: center;
-        }
-        
-        .profile-badge {
-            display: inline-block;
-            margin: 0.5rem;
-        }
-        
-        .btn-link {
-            text-decoration: none;
+        @media (max-width: 720px) {
+            .main-container {
+                padding: 1rem;
+            }
+            h2 {
+                font-size: 1.6rem;
+            }
+            .project-grid {
+                grid-template-columns: 1fr;
+            }
         }
     </style>
 </head>
 <body>
-<div class="container">
+<div class="main-container">
 
-    <!-- Hero Wave + Header -->
-    <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F172A,25:1E3A8A,50:2563EB,75:7C3AED,100:EC4899&text=SUMIT%20AGNIHOTRI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20•%20Machine%20Learning%20Enthusiast%20•%20AI%20Learner&descAlignY=58&descSize=18" style="max-width: 100%; height: auto;" alt="header"/>
-        
-        <br>
-        <!-- Enhanced Typing SVG alternative (static but styled) -->
-        <div class="typing-demo" style="margin: 20px 0;">
-            <span class="gradient-text" style="font-size: 1.6rem; font-weight: 700;">✨ Transforming Data into Insights &nbsp;|&nbsp; 📊 Python & ML &nbsp;|&nbsp; 🤖 AI Explorer</span>
-        </div>
-        
-        <div style="margin: 1rem 0;">
-            <img src="https://komarev.com/ghpvc/?username=Sumit-Agnihotri&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="views"/>
-            <img src="https://img.shields.io/github/followers/Sumit-Agnihotri?style=for-the-badge&logo=github&color=7C3AED" alt="followers"/>
-            <img src="https://img.shields.io/github/stars/Sumit-Agnihotri?style=for-the-badge&color=EC4899" alt="stars"/>
+    <!-- ========= HERO with wave effect ========= -->
+    <div align="center" style="margin-bottom: 1rem;">
+        <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:1E3A8A,50:2563EB,75:7C3AED,100:EC4899&text=SUMIT%20AGNIHOTRI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Data%20Scientist%20•%20Machine%20Learning%20Enthusiast%20•%20AI%20Learner&descAlignY=62&descSize=17" style="max-width: 100%; width: 100%;" alt="wave banner">
+        <div style="margin: 20px 0 10px;">
+            <div style="font-weight: 700; font-size: 1.7rem; background: linear-gradient(135deg,#38BDF8,#F472B6); background-clip:text; -webkit-background-clip:text; color:transparent;">
+                ✦ Transforming Data into Actionable Intelligence ✦
+            </div>
+            <div style="margin-top: 12px;">
+                <img src="https://komarev.com/ghpvc/?username=Sumit-Agnihotri&label=✨+PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="views" style="margin:0 5px;">
+                <img src="https://img.shields.io/github/followers/Sumit-Agnihotri?style=for-the-badge&logo=github&color=7C3AED" alt="followers" style="margin:0 5px;">
+                <img src="https://img.shields.io/github/stars/Sumit-Agnihotri?style=for-the-badge&color=EC4899" alt="stars" style="margin:0 5px;">
+            </div>
         </div>
     </div>
 
-    <!-- About Me Section (improved layout) -->
+    <!-- ========= ABOUT ME SECTION (refined) ========= -->
     <div class="section">
         <h2>🌌 About Me</h2>
-        <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-top: 1.5rem;">
-            <div style="flex: 1.2; min-width: 240px;">
-                <div class="code-block" style="background: #0A0F1F;">
-                    <pre style="color: #E2E8F0; margin: 0; font-size: 0.85rem;">
-<span style="color:#38BDF8;">Name:</span> Sumit Agnihotri
-<span style="color:#EC4899;">Role:</span> Aspiring Data Scientist
-
-<span style="color:#A855F7;">Learning Journey:</span>
-  ▸ Data Science
-  ▸ Machine Learning
-  ▸ Artificial Intelligence
-  ▸ Data Visualization
-  ▸ SQL & Analytics
-
-<span style="color:#38BDF8;">Languages:</span> Python, PostgreSQL
-
-<span style="color:#F97316;">Current Focus:</span>
-  ✦ Building Real-World Projects
-  ✦ Learning Deep Learning
-  ✦ Exploring Generative AI
-  ✦ Improving Analytical Skills
-
-<span style="color:#EC4899;">Goal:</span> Become a Data Scientist & AI Engineer 🚀
+        <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: stretch;">
+            <div style="flex: 1.2; background: rgba(0,0,0,0.25); border-radius: 1.5rem; padding: 1.5rem;">
+                <div class="code-snip" style="background:#0A0F1F;">
+                    <pre style="color:#CBD5E1; margin:0; font-family: monospace;">
+<span style="color:#38BDF8;">┌──</span> <span style="color:#F97316;">Identity</span>
+│ Name        : Sumit Agnihotri
+│ Role        : Aspiring Data Scientist
+│ 
+├── <span style="color:#38BDF8;">Learning Path</span>
+│ • Data Science & Machine Learning
+│ • Artificial Intelligence
+│ • Data Visualization & Analytics
+│ • SQL (PostgreSQL)
+│
+├── <span style="color:#EC4899;">Core Stack</span>
+│ • Python (pandas, numpy, scikit-learn)
+│ • PostgreSQL
+│ • Power BI / Tableau
+│
+├── <span style="color:#A855F7;">Current Focus</span>
+│ → Deep Learning (PyTorch/TensorFlow)
+│ → Generative AI & LLMs
+│ → End-to-end ML projects
+│
+└── <span style="color:#FDE047;">Mission</span>   : Become a Data Scientist & AI Engineer 🚀
                     </pre>
                 </div>
             </div>
-            <div style="flex: 0.8; text-align: center;">
-                <img width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="border-radius: 20px; border: 2px solid #38BDF8;" alt="coding"/>
+            <div style="flex: 0.8; text-align: center; display: flex; align-items: center; justify-content: center;">
+                <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611mz89s3j7u790jshph2h1x2erwnurcf4dp7gg95jr&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="260" style="border-radius: 28px; border: 2px solid #38BDF8; box-shadow: 0 15px 30px -10px black;" alt="data gif">
             </div>
         </div>
     </div>
 
-    <!-- Tech Stack -->
+    <!-- ========= TECH STACK (improved badges) ========= -->
     <div class="section">
-        <h2>⚡ Tech Stack</h2>
-        <div align="center" style="background: rgba(15, 23, 42, 0.4); border-radius: 2rem; padding: 1.8rem; margin-top: 1rem;">
-            <div style="margin-bottom: 2rem;">
-                <h3 style="font-size: 1.4rem;">💻 Programming Languages</h3>
-                <div style="margin-top: 0.8rem;">
-                    <span class="tech-badge">🐍 Python</span>
-                    <span class="tech-badge">🐘 PostgreSQL</span>
-                </div>
-            </div>
-            <div style="margin-bottom: 2rem;">
-                <h3 style="font-size: 1.4rem;">📚 Data Science & ML</h3>
-                <div>
-                    <span class="tech-badge">NumPy</span> <span class="tech-badge">Pandas</span> <span class="tech-badge">Scikit-learn</span>
-                    <span class="tech-badge">Matplotlib</span> <span class="tech-badge">Seaborn</span> <span class="tech-badge">Plotly</span>
-                    <span class="tech-badge">OpenCV</span> <span class="tech-badge">TensorFlow</span> <span class="tech-badge">PyTorch</span>
-                </div>
-            </div>
-            <div style="margin-bottom: 2rem;">
-                <h3 style="font-size: 1.4rem;">📊 Visualization & BI</h3>
-                <div>
-                    <span class="tech-badge">Power BI</span> <span class="tech-badge">Google Sheets</span>
-                    <span class="tech-badge">Jupyter</span> <span class="tech-badge">MS Excel</span>
-                </div>
-            </div>
-            <div>
-                <h3 style="font-size: 1.4rem;">🛠️ Tools & Platforms</h3>
-                <div>
-                    <span class="tech-badge">Git</span> <span class="tech-badge">GitHub</span>
-                    <span class="tech-badge">VS Code</span> <span class="tech-badge">Linux</span>
-                </div>
+        <h2>⚡ Tech Stack & Tools</h2>
+        <div class="glass-card" style="padding: 1.8rem; margin-top: 0.5rem;">
+            <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+                <div style="min-width: 200px;"><strong class="gradient-primary">🐍 Languages</strong><br><span class="tech-pill">Python</span> <span class="tech-pill">SQL (PostgreSQL)</span></div>
+                <div style="min-width: 240px;"><strong class="gradient-primary">📊 Data Science</strong><br><span class="tech-pill">NumPy</span> <span class="tech-pill">Pandas</span> <span class="tech-pill">Scikit-learn</span> <span class="tech-pill">Matplotlib</span> <span class="tech-pill">Seaborn</span> <span class="tech-pill">Plotly</span></div>
+                <div style="min-width: 200px;"><strong class="gradient-primary">🧠 ML/DL</strong><br><span class="tech-pill">TensorFlow</span> <span class="tech-pill">PyTorch</span> <span class="tech-pill">OpenCV</span></div>
+                <div style="min-width: 180px;"><strong class="gradient-primary">📉 BI & Viz</strong><br><span class="tech-pill">Power BI</span> <span class="tech-pill">Excel</span> <span class="tech-pill">Jupyter</span></div>
+                <div><strong class="gradient-primary">🛠️ DevOps/Tools</strong><br><span class="tech-pill">Git/GitHub</span> <span class="tech-pill">VS Code</span> <span class="tech-pill">Linux</span></div>
             </div>
         </div>
     </div>
 
-    <!-- Featured Projects - Improved Design, ready for links -->
+    <!-- ========= FEATURED PROJECTS (placeholders ready for links) ========= -->
     <div class="section">
         <h2>🚀 Featured Projects</h2>
-        <div class="projects-grid">
-            <!-- Project 1 -->
-            <div class="project-card">
-                <div class="project-title">📊 Customer Churn Analysis</div>
-                <div class="project-desc">Built an end-to-end ML pipeline to predict customer churn with 92% accuracy. Performed EDA and feature engineering.</div>
-                <div class="project-tech">
-                    <span class="mini-badge">Python</span>
-                    <span class="mini-badge">Pandas</span>
-                    <span class="mini-badge">Scikit-learn</span>
-                </div>
-                <a href="#" style="text-decoration: none;"><span class="tech-badge" style="background:#2563EB;">🔗 View Project →</span></a>
-            </div>
-            <!-- Project 2 -->
-            <div class="project-card">
-                <div class="project-title">🤖 NLP Sentiment Analyzer</div>
-                <div class="project-desc">Analyzed movie reviews using NLTK & Transformers. Achieved 88% F1-score with deployment using Streamlit.</div>
-                <div class="project-tech">
-                    <span class="mini-badge">Transformers</span>
-                    <span class="mini-badge">TensorFlow</span>
-                    <span class="mini-badge">Streamlit</span>
-                </div>
-                <a href="#" style="text-decoration: none;"><span class="tech-badge" style="background:#7C3AED;">🔗 View Project →</span></a>
-            </div>
-            <!-- Project 3 -->
-            <div class="project-card">
-                <div class="project-title">📈 Sales Forecasting Dashboard</div>
-                <div class="project-desc">Time-series forecasting using ARIMA & Prophet. Interactive Power BI dashboard for business insights.</div>
-                <div class="project-tech">
-                    <span class="mini-badge">Power BI</span>
-                    <span class="mini-badge">Prophet</span>
-                    <span class="mini-badge">SQL</span>
-                </div>
-                <a href="#" style="text-decoration: none;"><span class="tech-badge" style="background:#EC4899;">🔗 View Project →</span></a>
-            </div>
-            <!-- Project 4 -->
-            <div class="project-card">
-                <div class="project-title">🧠 Image Classification CNN</div>
-                <div class="project-desc">Deep learning model to classify CIFAR-10 with 85% test accuracy using PyTorch and data augmentation.</div>
-                <div class="project-tech">
-                    <span class="mini-badge">PyTorch</span>
-                    <span class="mini-badge">OpenCV</span>
-                    <span class="mini-badge">Matplotlib</span>
-                </div>
-                <a href="#" style="text-decoration: none;"><span class="tech-badge" style="background:#0EA5E9;">🔗 View Project →</span></a>
-            </div>
-            <!-- Project 5 -->
-            <div class="project-card">
-                <div class="project-title">📉 COVID-19 Data Analysis</div>
-                <div class="project-desc">Exploratory data analysis and real-time dashboard using Plotly Dash. Data sourced from WHO APIs.</div>
-                <div class="project-tech">
-                    <span class="mini-badge">Plotly</span>
-                    <span class="mini-badge">Dash</span>
-                    <span class="mini-badge">Pandas</span>
-                </div>
-                <a href="#" style="text-decoration: none;"><span class="tech-badge" style="background:#22C55E;">🔗 View Project →</span></a>
-            </div>
-            <!-- Project 6 -->
-            <div class="project-card">
-                <div class="project-title">🚀 Movie Recommender System</div>
-                <div class="project-desc">Content-based filtering using cosine similarity, built with Flask and deployed on HuggingFace Spaces.</div>
-                <div class="project-tech">
-                    <span class="mini-badge">Scikit-learn</span>
-                    <span class="mini-badge">Flask</span>
-                    <span class="mini-badge">NLP</span>
-                </div>
-                <a href="#" style="text-decoration: none;"><span class="tech-badge" style="background:#F97316;">🔗 View Project →</span></a>
-            </div>
+        <div class="project-grid">
+            <div class="project-tile"><div class="project-title">📊 Customer Churn Predictor</div><div class="project-desc">End-to-end classification model (Random Forest/XGBoost) with 91% recall. Feature engineering + SHAP explainability.</div><div><span class="mini-tech">Python</span><span class="mini-tech">Pandas</span><span class="mini-tech">Scikit-learn</span></div><a href="#" class="project-btn">🔍 Preview →</a></div>
+            <div class="project-tile"><div class="project-title">🤖 NLP Sentiment Analysis</div><div class="project-desc">Fine-tuned BERT for movie reviews; deployed with FastAPI + Streamlit dashboard.</div><div><span class="mini-tech">Transformers</span><span class="mini-tech">PyTorch</span><span class="mini-tech">Streamlit</span></div><a href="#" class="project-btn">🔍 Preview →</a></div>
+            <div class="project-tile"><div class="project-title">📈 Sales Forecasting Dashboard</div><div class="project-desc">Time series (Prophet/ARIMA) + interactive PowerBI dashboard; SQL data pipeline.</div><div><span class="mini-tech">Prophet</span><span class="mini-tech">PowerBI</span><span class="mini-tech">PostgreSQL</span></div><a href="#" class="project-btn">🔍 Preview →</a></div>
+            <div class="project-tile"><div class="project-title">🧠 Brain Tumor Segmentation</div><div class="project-desc">CNN + U-Net architecture (TensorFlow) for MRI segmentation; 87% dice score.</div><div><span class="mini-tech">TensorFlow</span><span class="mini-tech">OpenCV</span><span class="mini-tech">Keras</span></div><a href="#" class="project-btn">🔍 Preview →</a></div>
+            <div class="project-tile"><div class="project-title">📉 COVID-19 Exploratory Analysis</div><div class="project-desc">Global dataset analysis using Plotly and pandas; animated choropleth maps.</div><div><span class="mini-tech">Plotly</span><span class="mini-tech">Pandas</span><span class="mini-tech">Jupyter</span></div><a href="#" class="project-btn">🔍 Preview →</a></div>
+            <div class="project-tile"><div class="project-title">🎬 Movie Recommender System</div><div class="project-desc">Content-based & collaborative filtering with cosine similarity; Flask deployment.</div><div><span class="mini-tech">Scikit-learn</span><span class="mini-tech">Flask</span><span class="mini-tech">NLP</span></div><a href="#" class="project-btn">🔍 Preview →</a></div>
         </div>
-        <p align="center" style="margin-top: 1rem; color: #94A3B8;">✨ <i>Project links will be added soon — stay tuned!</i></p>
+        <p align="center" style="margin-top: 1rem; opacity: 0.7; font-size: 0.9rem;">⭐ <em>Project links coming soon — live demos & repos in progress</em> ⭐</p>
     </div>
 
-    <!-- GitHub Analytics (Improved) -->
+    <!-- ========= GITHUB ANALYTICS (dynamic images) ========= -->
     <div class="section">
         <h2>📊 GitHub Analytics</h2>
-        <div class="stats-wrapper">
-            <div class="stats-card">
-                <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Agnihotri&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=EC4899&text_color=E2E8F0&bg_color=0D111A" width="100%" alt="GitHub Stats"/>
+        <div class="stats-row">
+            <div class="stat-box">
+                <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Agnihotri&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=EC4899&text_color=E2E8F0&bg_color=0D111A" width="100%" alt="stats">
             </div>
-            <div class="stats-card">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Agnihotri&theme=tokyonight&hide_border=true&ring=EC4899&fire=F97316&currStreakLabel=38BDF8&background=0D111A" width="100%" alt="Streak"/>
+            <div class="stat-box">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Agnihotri&theme=tokyonight&hide_border=true&ring=EC4899&fire=F97316&currStreakLabel=38BDF8&background=0D111A" width="100%" alt="streak">
             </div>
         </div>
         <div align="center" style="margin-top: 1rem;">
-            <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Agnihotri&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=E2E8F0&bg_color=0D111A" alt="Top Languages"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Agnihotri&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=E2E8F0&bg_color=0D111A" width="45%" alt="top langs">
         </div>
     </div>
 
-    <!-- Contribution Calendar (improved representation) -->
+    <!-- ========= CONTRIBUTION CALENDAR (interactive visual simulation) ========= -->
     <div class="section">
         <h2>🟩 Contribution Calendar</h2>
-        <div class="calendar-container">
-            <div style="font-size: 0.85rem; margin-bottom: 1rem;">🔥 Simulated activity grid (2024-2025)</div>
-            <div class="calendar-grid" id="contribGrid">
-                <!-- JS generated grid for better visual: 52 weeks x 7 days = 364 days approximate, simplified -->
-            </div>
-            <div style="display: flex; justify-content: center; gap: 8px; margin-top: 16px;">
-                <span style="background:#1E293B; width:14px;height:14px;display:inline-block;border-radius:2px;"></span> Less
-                <span style="background:#0EA5E9; width:14px;height:14px;display:inline-block;border-radius:2px;"></span>
-                <span style="background:#3B82F6; width:14px;height:14px;display:inline-block;border-radius:2px;"></span>
-                <span style="background:#8B5CF6; width:14px;height:14px;display:inline-block;border-radius:2px;"></span>
-                <span style="background:#EC4899; width:14px;height:14px;display:inline-block;border-radius:2px;"></span> More
+        <div class="contrib-preview glass-card">
+            <div style="font-weight: 500; margin-bottom: 1rem;">🌟 2025 activity heatmap (simulated)</div>
+            <div id="heatmapGrid" style="display: flex; flex-wrap: wrap; justify-content: center;"></div>
+            <div style="display: flex; justify-content: center; gap: 1rem; margin-top: 1.5rem;">
+                <span style="display:inline-flex;align-items:center;gap:4px"><span style="width:12px;height:12px;background:#1A2538;border-radius:2px"></span> Low</span>
+                <span style="display:inline-flex;align-items:center;gap:4px"><span style="width:12px;height:12px;background:#0EA5E9;border-radius:2px"></span> </span>
+                <span style="display:inline-flex;align-items:center;gap:4px"><span style="width:12px;height:12px;background:#3B82F6;border-radius:2px"></span> </span>
+                <span style="display:inline-flex;align-items:center;gap:4px"><span style="width:12px;height:12px;background:#8B5CF6;border-radius:2px"></span> </span>
+                <span style="display:inline-flex;align-items:center;gap:4px"><span style="width:12px;height:12px;background:#EC4899;border-radius:2px"></span> High</span>
             </div>
         </div>
     </div>
 
-    <!-- Activity Graph -->
+    <!-- ========= ACTIVITY GRAPH (GitHub like) ========= -->
     <div class="section">
         <h2>📈 Activity Graph</h2>
         <div align="center">
-            <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Agnihotri&bg_color=0F172A&color=38BDF8&line=EC4899&point=F97316&area=true&hide_border=true" alt="activity graph"/>
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Agnihotri&bg_color=0F172A&color=38BDF8&line=EC4899&point=F97316&area=true&hide_border=true&area_color=EC489920" width="100%" alt="contribution graph">
         </div>
     </div>
 
-    <!-- GitHub Achievements -->
+    <!-- ========= ACHIEVEMENTS TROPHY ========= -->
     <div class="section">
         <h2>🏆 GitHub Achievements</h2>
         <div align="center">
-            <img src="https://github-profile-trophy.vercel.app/?username=Sumit-Agnihotri&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%" alt="trophies"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=Sumit-Agnihotri&theme=algolia&no-frame=true&column=7&margin-w=8" width="100%" alt="trophies">
         </div>
     </div>
 
-    <!-- Learning Focus Section (interactive style) -->
+    <!-- ========= LEARNING FOCUS (python code block) ========= -->
     <div class="section">
         <h2>📚 Current Learning Focus</h2>
-        <div class="code-block" style="background:#0A0F1F;">
-            <pre style="margin:0; color:#E2E8F0;">
-<span style="color:#38BDF8;">class</span> <span style="color:#EC4899;">SumitAgnihotri</span>:
+        <div class="code-snip" style="background:#0A0F1F;">
+            <pre style="color:#CBD5E6; font-family: monospace;">
+<span style="color:#7C3AED;">class</span> <span style="color:#38BDF8;">SumitAgnihotri</span>:
     
-    <span style="color:#A855F7;">def</span> <span style="color:#F97316;">__init__</span>(self):
+    <span style="color:#F97316;">def __init__</span>(self):
         self.learning = [
-            <span style="color:#10B981;">"Python"</span>, <span style="color:#10B981;">"PostgreSQL"</span>, <span style="color:#10B981;">"Machine Learning"</span>,
-            <span style="color:#10B981;">"Deep Learning"</span>, <span style="color:#10B981;">"Generative AI"</span>, <span style="color:#10B981;">"Data Visualization"</span>
+            "Advanced Machine Learning",
+            "Deep Learning (CNNs, RNNs)",
+            "Generative AI & LLMs",
+            "MLOps basics (Docker, FastAPI)",
+            "Big Data (Spark fundamentals)"
         ]
     
-    <span style="color:#A855F7;">def</span> <span style="color:#F97316;">goal</span>(self):
-        <span style="color:#A855F7;">return</span> <span style="color:#10B981;">"Become a Data Scientist & AI Engineer 🚀"</span>
+    <span style="color:#EC4899;">@property</span>
+    <span style="color:#F97316;">def daily_motto</span>(self):
+        return "Build -> Analyze -> Iterate -> Impact 🚀"
 
-<span style="color:#FCD34D;">profile</span> = <span style="color:#EC4899;">SumitAgnihotri</span>()
-<span style="color:#FCD34D;">print</span>(profile.goal())
+<span style="color:#10B981;">me = SumitAgnihotri()</span>
+<span style="color:#FDE047;">print(me.daily_motto)</span>
             </pre>
         </div>
     </div>
 
-    <!-- Connect with Me -->
+    <!-- ========= CONNECT & QUOTE ========= -->
     <div class="section">
         <h2>🌐 Connect With Me</h2>
         <div class="social-links">
             <a href="mailto:sagnihotri9710@gmail.com" class="social-btn">📧 Gmail</a>
-            <a href="https://www.linkedin.com/in/sumit-agnihotri/" class="social-btn">🔗 LinkedIn</a>
-            <a href="https://github.com/Sumit-Agnihotri" class="social-btn">🐙 GitHub</a>
+            <a href="https://www.linkedin.com/in/sumit-agnihotri/" class="social-btn" target="_blank">🔗 LinkedIn</a>
+            <a href="https://github.com/Sumit-Agnihotri" class="social-btn" target="_blank">🐙 GitHub</a>
         </div>
     </div>
 
-    <!-- Quote -->
-    <div class="section" align="center">
-        <div class="glass-card" style="padding: 2rem; margin-top: 1rem;">
-            <div class="quote-text">✨ “Without data, you're just another person with an opinion.”</div>
-            <div style="margin-top: 0.5rem; color: #94A3B8;">— W. Edwards Deming</div>
+    <div align="center" style="margin: 3rem 0 1rem;">
+        <div class="glass-card" style="padding: 1.5rem; max-width: 700px; margin: 0 auto;">
+            <p style="font-size: 1.2rem; font-style: italic;">✨ “Without data, you're just another person with an opinion.”</p>
+            <p style="margin-top: 0.3rem; font-weight: 300;">— W. Edwards Deming</p>
         </div>
     </div>
 
     <footer>
-        <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,25:1E3A8A,50:2563EB,75:7C3AED,100:EC4899&section=footer" style="width:100%" alt="footer"/>
-        <div style="margin-top: 1.8rem;">
-            <h3 class="gradient-text">⭐ Thank You for Visiting ⭐</h3>
-            <p style="margin-top: 0.5rem; font-weight: 500;">Learn • Build • Analyze • Grow 🚀</p>
-        </div>
+        <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0F172A,25:1E3A8A,50:2563EB,75:7C3AED,100:EC4899&section=footer" style="width:100%; margin-bottom: 1rem;" alt="footer wave">
+        <div class="gradient-primary" style="font-weight: 800; font-size: 1.4rem;">⭐ Thank You for Visiting ⭐</div>
+        <div style="margin-top: 0.5rem;">Learn • Build • Analyze • Grow 🚀</div>
+        <div style="margin-top: 1rem; font-size: 0.75rem; opacity: 0.6;">Sumit Agnihotri – Data Science & AI Enthusiast</div>
     </footer>
 </div>
 
 <script>
-    // Generate a nice contribution grid simulation (visual improvement)
-    function generateContributionGrid() {
-        const gridContainer = document.getElementById('contribGrid');
-        if (!gridContainer) return;
-        gridContainer.innerHTML = '';
-        const weeks = 52;
-        const maxHeight = 7; // 7 days a week
+    // dynamic contribution grid simulator (visual fix)
+    function generateContributionMap() {
+        const container = document.getElementById("heatmapGrid");
+        if (!container) return;
+        container.innerHTML = "";
+        // create a 52x7 matrix style ( weeks x days )
+        const weeks = 48;
+        const days = 7;
+        const gridWrapper = document.createElement("div");
+        gridWrapper.style.display = "grid";
+        gridWrapper.style.gridTemplateColumns = `repeat(${weeks}, 1fr)`;
+        gridWrapper.style.gap = "3px";
+        gridWrapper.style.width = "100%";
         
         for (let w = 0; w < weeks; w++) {
-            const weekDiv = document.createElement('div');
-            weekDiv.style.display = 'flex';
-            weekDiv.style.gap = '3px';
-            weekDiv.style.marginBottom = '3px';
-            for (let d = 0; d < 7; d++) {
-                const day = document.createElement('div');
-                day.style.aspectRatio = '1';
-                day.style.width = '100%';
-                day.style.maxWidth = '12px';
-                day.style.borderRadius = '3px';
-                // random but deterministic simulated activity based on week index
+            const colDiv = document.createElement("div");
+            colDiv.style.display = "flex";
+            colDiv.style.flexDirection = "column";
+            colDiv.style.gap = "3px";
+            for (let d = 0; d < days; d++) {
+                const cell = document.createElement("div");
+                cell.style.aspectRatio = "1/1";
+                cell.style.backgroundColor = "#1A2538";
+                cell.style.borderRadius = "3px";
+                // pseudo random but consistent based on week + day
+                let val = (w * 7 + d) % 13;
+                if (w > 5 && w < 20) val = (val + d) % 9;
+                if (w > 25 && w < 38) val = (val + 7) % 12;
                 let level = 0;
-                if (w > 8 && w < 20) level = Math.floor(Math.random() * 3) + 1;
-                else if (w > 25 && w < 40) level = Math.floor(Math.random() * 4) + 1;
-                else if (w > 42) level = Math.floor(Math.random() * 5);
-                else level = Math.floor(Math.random() * 3);
-                
-                if (level === 0) day.classList.add('contribution-level-0');
-                else if (level === 1) day.classList.add('contribution-level-1');
-                else if (level === 2) day.classList.add('contribution-level-2');
-                else if (level === 3) day.classList.add('contribution-level-3');
-                else day.classList.add('contribution-level-4');
-                
-                day.style.backgroundColor = getComputedStyle(day).backgroundColor;
-                weekDiv.appendChild(day);
+                if (val > 9) level = 4;
+                else if (val > 6) level = 3;
+                else if (val > 3) level = 2;
+                else if (val > 1) level = 1;
+                if (level === 1) cell.classList.add("level-1");
+                else if (level === 2) cell.classList.add("level-2");
+                else if (level === 3) cell.classList.add("level-3");
+                else if (level === 4) cell.classList.add("level-4");
+                if (level > 0) {
+                    cell.style.backgroundColor = getComputedStyle(cell).backgroundColor;
+                }
+                colDiv.appendChild(cell);
             }
-            gridContainer.appendChild(weekDiv);
+            gridWrapper.appendChild(colDiv);
         }
+        container.appendChild(gridWrapper);
     }
-    generateContributionGrid();
+    generateContributionMap();
 </script>
 </body>
 </html>
