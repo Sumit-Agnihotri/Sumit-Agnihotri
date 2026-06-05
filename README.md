@@ -169,13 +169,15 @@ It’s designed to be simple, clean, and trustworthy, even for users with no tec
 
 ## 📈 Store Item Forecasting
 
-Replace this with your project description.
+This project was built for the TCS iON Data Science Challenge. The objective is to build a simple model that forecasts the item sales for a store based on historical data.
 
 <br>
 
-<img src="https://img.shields.io/badge/EDA-0EA5E9?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 <br><br>
 
@@ -193,13 +195,12 @@ Replace this with your project description.
 
 ## 🧠 Wave Shoes Store Dashboard
 
-Replace this with your project description.
+This is an interactive dashboard created using Google Looker Studio to visualize and analyze customer churn patterns. The dashboard provides a clear overview of key metrics and allows users to explore churn behavior through dynamic filters.
 
 <br>
 
-<img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
 
 <br><br>
 
@@ -213,13 +214,15 @@ Replace this with your project description.
 
 ## 📉 Electricity Consumption Forecasting
 
-Replace this with your project description.
+A machine learning project that predicts hourly electricity consumption using time-series features and historical usage patterns. This project includes data preprocessing, feature engineering, model training with hyperparameter tuning, and a Streamlit web application for real-time predictions.
 
 <br>
 
-<img src="https://img.shields.io/badge/Data_Science-2563EB?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 <br><br>
 
@@ -233,13 +236,15 @@ Replace this with your project description.
 
 ## 🚀 Handwritten Digits Recognition Model
 
-Replace this with your project description.
+A machine learning project that implements a Support Vector Machine (SVM) classifier to recognize handwritten digits (0-9) from the sklearn digits dataset. The project includes model training, comprehensive evaluation, hyperparameter tuning, and a Streamlit web application for interactive predictions.
 
 <br>
 
-<img src="https://img.shields.io/badge/Visualization-EC4899?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Analytics-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 <br><br>
 
