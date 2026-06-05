@@ -145,13 +145,17 @@ The AI Smart City Intelligence System is an AI-powered traffic monitoring, conge
 
 ## 🤖 Diabetes Prediction App
 
-Replace this with your project description.
+This is a machine learning–powered web app that predicts whether a person is diabetic or not, based on basic health parameters taken from a medical report.
+It’s designed to be simple, clean, and trustworthy, even for users with no technical background.
 
 <br>
 
-<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Visualization-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 <br><br>
 
