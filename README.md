@@ -69,7 +69,7 @@ I got serious about data science after seeing firsthand how poor stock decisions
 ## 💼 Work Experience
 
 <details>
-<summary><b>📦 Stock Manager & Data Analyst — Sumit Homeopathic Store (Jan 2022 – Present · Part-Time)</b></summary>
+<summary><b>📦 Stock Manager & Data Analyst at Sumit Homeopathic Store (Oct 2022 – Present · Part-Time)</b></summary>
 
 <br/>
 
@@ -93,7 +93,7 @@ This is a family business I've been managing part-time. It gave me hands-on expo
 
 ## 🛠️ Tech Stack
 
-> Only listing technologies I have used in actual projects or work — no padding.
+> Only listing technologies I have used in actual projects or work, no padding.
 
 <div align="center">
 
