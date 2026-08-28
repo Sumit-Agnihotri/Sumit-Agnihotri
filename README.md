@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,30:0F172A,60:1D4ED8,85:7C3AED,100:EC4899&text=SUMIT%20AGNIHOTRI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20ML%20Learner%20%7C%20BCA%20Data%20Science%20%40%20Amity%20University&descSize=18&descAlignY=62&descColor=CBD5E1" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/denvercoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=📊+Data+Analyst+%7C+Inventory+%26+Sales+Data;🤖+ML+Models%3A+Classification+%2B+Time-Series;📈+BI+Dashboards+%7C+Looker+Studio;🥇+Ranked+%231+in+Programming+%40+Amity+University+Online;🎓+BCA+Data+Science+%7C+Amity+University" alt="Typing SVG"/>
 </a>
 
@@ -185,8 +185,12 @@ Explored multi-item sales forecasting over a multi-year historical dataset using
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sumit-Agnihotri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Agnihotri&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sumit-Agnihotri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Sumit's GitHub Stats" height="175"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sumit-Agnihotri&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="175"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Agnihotri&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
