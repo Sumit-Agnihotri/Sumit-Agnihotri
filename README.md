@@ -8,11 +8,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,30:0F172A,60:1D4ED8,85:7C3AED,100:EC4899&text=SUMIT%20AGNIHOTRI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20ML%20Learner%20%7C%20BCA%20Data%20Science%20%40%20Amity%20University&descSize=18&descAlignY=62&descColor=CBD5E1" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://github.com/denvercoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=📊+Data+Analyst+%7C+Inventory+%26+Sales+Data;🤖+ML+Models%3A+Classification+%2B+Time-Series;📈+BI+Dashboards+%7C+Looker+Studio;🥇+Ranked+%231+in+Programming+%40+Amity+University+Online;🎓+BCA+Data+Science+%7C+Amity+University" alt="Typing SVG"/>
+<a href="https://github.com/Sumit-Agnihotri">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=%F0%9F%90%B7+Data+Analyst+%7C+Inventory+%26+Sales+Data;%F0%9F%A4%96+ML+Models%3A+Classification+%2B+Time-Series;%F0%9F%93%88+BI+Dashboards+%7C+Looker+Studio;%F0%9F%A5%87+Ranked+%231+in+Programming+%40+Amity+University+Online;%F0%9F%8E%93+BCA+Data+Science+%7C+Amity+University" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- SOCIAL BADGES -->
 <a href="mailto:sagnihotri9710@gmail.com">
@@ -122,7 +122,6 @@ Managed daily stock operations and reporting for a retail setup, using real sale
 Built a regression pipeline to forecast energy usage based on 10,000+ time-stamped records. Extracted seasonal trends, rolling metrics, and lag features to test baseline linear models against tree-based regressors.
 
 - **Key Work:** Handled missing values, engineered temporal features, and evaluated performance using MAE and RMSE.
-- 🔗 **[View Repository](https://github.com/Sumit-Agnihotri)**
 
 ---
 
@@ -132,7 +131,6 @@ Built a regression pipeline to forecast energy usage based on 10,000+ time-stamp
 Trained binary classification models on the PIMA Indians Diabetes dataset. Built a web interface allowing users to input medical metrics and receive instant risk estimations.
 
 - **Key Work:** Handled zero-value outliers, applied standard scaling, and deployed the trained model via Streamlit.
-- 🔗 **[View Repository](https://github.com/Sumit-Agnihotri)**
 
 ---
 
@@ -142,7 +140,6 @@ Trained binary classification models on the PIMA Indians Diabetes dataset. Built
 Built an interactive sales dashboard for a retail dataset to track top-performing categories, monthly revenue growth, and regional breakdown.
 
 - **Key Work:** Structured raw CSV data in Google Sheets using formulas and data validation before building visual components in Looker Studio.
-- 🔗 **[View Repository](https://github.com/Sumit-Agnihotri)**
 
 ---
 
@@ -151,16 +148,12 @@ Built an interactive sales dashboard for a retail dataset to track top-performin
 
 Analyzed synthetic traffic density data across 10 intersections to observe peak-hour congestion patterns and evaluate basic signal duration adjustments.
 
-- 🔗 **[View Repository](https://github.com/Sumit-Agnihotri)**
-
 ---
 
 ### 🩸 5. Store Item Demand Forecasting
 `Python` `Pandas` `XGBoost`
 
 Explored multi-item sales forecasting over a multi-year historical dataset using XGBoost and rolling window techniques.
-
-- 🔗 **[View Repository](https://github.com/Sumit-Agnihotri)**
 
 ---
 
@@ -181,16 +174,16 @@ Explored multi-item sales forecasting over a multi-year historical dataset using
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sumit-Agnihotri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Sumit's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sumit-Agnihotri&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="175"/>
+<img src="https://ghchart.rshah.org/7C3AED/Sumit-Agnihotri" alt="Sumit's GitHub Commit Chart" width="100%" />
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Agnihotri&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sumit-Agnihotri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Agnihotri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
