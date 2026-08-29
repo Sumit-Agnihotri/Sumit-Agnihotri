@@ -177,8 +177,10 @@ Explored multi-item sales forecasting over a multi-year historical dataset using
 ## 📈 GitHub Activity
 
 <!-- 📈 GITHUB CONTRIBUTION GRID -->
+
+<!-- 📈 GITHUB ACTIVITY -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sumit-Agnihotri/Sumit-Agnihotri/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid" width="100%" />
+  <img src="https://ghchart.rshah.org/Sumit-Agnihotri" alt="Sumit's GitHub Contribution Grid" width="100%" />
 </div>
 
 <br/>
