@@ -177,18 +177,15 @@ Explored multi-item sales forecasting over a multi-year historical dataset using
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/216e39/Sumit-Agnihotri" alt="Sumit's GitHub Contribution Grid" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Agnihotri&theme=github-compact&hide_border=true&area=true" alt="Sumit's GitHub Activity Graph" width="100%" />
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- 📈 GITHUB STATS & LANGUAGES -->
 <div align="center">
-
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Sumit-Agnihotri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sumit's GitHub Stats" height="165" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sumit-Agnihotri&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
-
-</div>
 </div>
 
 ---
